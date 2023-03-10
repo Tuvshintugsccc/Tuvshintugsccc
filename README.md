@@ -41,6 +41,9 @@
 </td><td valign="top" width="33%">
 
 
+### Love >  
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31c4mprimcoeynibv5vemkajekuy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)
+
 
 ### Beginner >  
 <div align="center">  
@@ -55,11 +58,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-### Love >  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31c4mprimcoeynibv5vemkajekuy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)
 
 </td></tr></table>  
 
