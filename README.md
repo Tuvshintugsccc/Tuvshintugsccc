@@ -93,7 +93,4 @@
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31c4mprimcoeynibv5vemkajekuy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
