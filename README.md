@@ -16,7 +16,7 @@
 - 🔭 I’m currently studying Computer Science at National University of Mongolia.  
   
 
-- ❓ To be honest, I don't know what to feel anymore 🥴  
+- ❓ To be honest, I **** ***** ** **** 🥴  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
