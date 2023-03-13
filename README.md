@@ -94,5 +94,5 @@
 ## 🏆 My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tuvshintugsccc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31c4mprimcoeynibv5vemkajekuy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31c4mprimcoeynibv5vemkajekuy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false"/></div>
 <br/>
