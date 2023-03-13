@@ -87,10 +87,13 @@
 <br/>  
 
 
-## Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tuvshintugsccc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# 📊 My Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tuvshintugsccc&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tuvshintugsccc&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuvshintugsccc&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>  
+## 🏆 My Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tuvshintugsccc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31c4mprimcoeynibv5vemkajekuy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>
 <br/>
