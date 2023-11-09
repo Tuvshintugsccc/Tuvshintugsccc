@@ -14,13 +14,6 @@
   
 - 😵‍💫 End yag yu gej bichih ystoin be hehe :(
 
-- 🔭 I’m currently studying Computer Science at National University of Mongolia.  
-  
-- ❓ To be honest, I **** ***** ** **** 🥴  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
